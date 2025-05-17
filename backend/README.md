@@ -1,6 +1,7 @@
 # Coffee Shop Backend
 
 ## Setup
+`python3 -m venv .venv`
 `pip install -r requirements.txt`
 `export FLASK_APP=api.py`
 `cd src`
