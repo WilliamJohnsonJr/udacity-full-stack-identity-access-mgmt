@@ -1,0 +1,8 @@
+**/*.cfg
+**/__pycache__
+**/.venv
+**/.env
+frontend/src/environments/environment.ts
+**/node_modules
+**/.DS_Store
+backend/udacity-fsnd-udaspicelatte.postman_collection.json
