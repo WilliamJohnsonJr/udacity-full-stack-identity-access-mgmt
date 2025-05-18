@@ -8,9 +8,12 @@
 `cd src`
 `flask run --reload`
 
-Important: I have committed the .env file including the Auth0 Domain URL, API Audience, and Algorithms. Normally, this would deliberately be left out of version control for security, but it is included here for Udacity to be able to review.
+Important: If cloning this repo, you will need to add a `src/.env` file including:
+`AUTH0_DOMAIN`
+`ALGORITHMS`
+`API_AUDIENCE`
 
-Documentation has been omitted for now since the Postman Collection serves as an API reference.
+Documentation has been omitted since the Udacity project utilizes a Postman Collection as part of testing/grading.
 
 Original README below this line:
 -----------------------------------------------------------------------------------
